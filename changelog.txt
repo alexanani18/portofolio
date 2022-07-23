@@ -1,0 +1,25 @@
+Proiect inceput in data de: 17/07/2022.
+Versiune site: 1.1.0
+Proiect finalizat in data de: xx/xx/xxxx.
+
+
+De facut:
+
+
+De verificat:
+
+
+
+Version: 1.0.0:
+    - Alegere tema.
+    - Sintetizare si optimizare changelog.txt.
+    - Actualizata putin paginile cu numele meu.
+
+
+Version: 1.1.0:
+    - Modificat imagine bg.
+    - curatat umpic fisierele care nu erau necesare.
+    - Actualizat pagina About.
+    - Pagina About 99,99% gata.
+    - Terminat +- categoria Services.
+    - Incarcat fisier pe webhost: work.scrproject.eu.
