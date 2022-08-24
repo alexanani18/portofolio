@@ -1,13 +1,11 @@
 Proiect inceput in data de: 17/07/2022.
-Versiune site: 1.1.0
+Versiune site: 1.1.1
 Proiect finalizat in data de: xx/xx/xxxx.
 
-
 De facut:
-
+-De la pagina de resume in jos.
 
 De verificat:
-
 
 
 Version: 1.0.0:
@@ -15,11 +13,18 @@ Version: 1.0.0:
     - Sintetizare si optimizare changelog.txt.
     - Actualizata putin paginile cu numele meu.
 
-
 Version: 1.1.0:
     - Modificat imagine bg.
     - curatat umpic fisierele care nu erau necesare.
     - Actualizat pagina About.
     - Pagina About 99,99% gata.
     - Terminat +- categoria Services.
-    - Incarcat fisier pe webhost: work.scrproject.eu.
+    - Incarcat fisier pe webhost: work.scrproject.eu
+    - Incarcat fisier pe github : https://github.com/alexanani18/portofolio
+
+Version: 1.1.1:
+    -Schimbat poza pagina portofolio
+    -Prima pagina terminata (versiune finalia)
+    -Adaugat in portofolio si pagina UnderConstruction (cu link catre git si website)
+    -Incarcat versiune pe webhost: work.scrproject.eu
+    -Incarcat versiune pe github : https://github.com/alexanani18/portofolio
