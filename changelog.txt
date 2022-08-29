@@ -1,9 +1,9 @@
 Proiect inceput in data de: 17/07/2022.
-Versiune site: 1.1.1
+Versiune site: 1.1.2
 Proiect finalizat in data de: xx/xx/xxxx.
 
 De facut:
--De la pagina de resume in jos.
+-Form Contact
 
 De verificat:
 
@@ -27,4 +27,16 @@ Version: 1.1.1:
     -Prima pagina terminata (versiune finalia)
     -Adaugat in portofolio si pagina UnderConstruction (cu link catre git si website)
     -Incarcat versiune pe webhost: work.scrproject.eu
+    -Incarcat versiune pe github : https://github.com/alexanani18/portofolio
+
+
+Version: 1.1.2:
+    -Lucrat la pagina de la Resume.
+    -Adaugat paragrafe si lucruri esentiale in Resume.
+    -Structurat pagina de Resume astfel: Studii, Work, Limbi, Competente digitale.
+    -Scos "+" de la portofoliu, lasat doar link-ul pentru portofolii.
+    -Modificat putin textul de la poze si numele acestora.
+    -Adaugat github in Contact-Social Profiles.
+    -Call me actualizat.
+    -Actualizate pagina scrproject.eu si work.scrproject.eu.
     -Incarcat versiune pe github : https://github.com/alexanani18/portofolio
