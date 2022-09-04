@@ -1,11 +1,11 @@
 Proiect inceput in data de: 17/07/2022.
-Versiune site: 1.1.2
+Versiune site: 1.1.3
 Proiect finalizat in data de: xx/xx/xxxx.
 
 De facut:
+-Actualizare informatii generale in head
 -Form Contact
 
-De verificat:
 
 
 Version: 1.0.0:
@@ -39,4 +39,11 @@ Version: 1.1.2:
     -Adaugat github in Contact-Social Profiles.
     -Call me actualizat.
     -Actualizate pagina scrproject.eu si work.scrproject.eu.
+    -Incarcat versiune pe github : https://github.com/alexanani18/portofolio
+
+Version: 1.1.3:
+    -Restructurat si actualizat pagina de Resume
+    -Sters pagina de Services    
+    -Call me actualizat
+    -Actualizat pagina scrproject.eu cu portofoliu. (fara changelog.txt)
     -Incarcat versiune pe github : https://github.com/alexanani18/portofolio
